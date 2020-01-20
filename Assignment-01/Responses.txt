@@ -1,0 +1,4 @@
+The Internet is a global network of networks, while the Web is a collection of information accessed through the internet
+The internet works by connecting computers via routers to create one network. We then use modems to transmit information through the telephone lines. Once the information is able to be delivered through the telephone lines it travels to an ISP which uses special routers to communicate with other ISP's routers. These ISP's make up the multiude of networks called the Internet.
+A directory is a location on a computer used for storing files.
+A VCS allows you to revert files or projects to a previous state, see who last modified something which may have caused a problem, and allows you to see who introduced an issue and when.
