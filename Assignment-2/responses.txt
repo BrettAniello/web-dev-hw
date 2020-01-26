@@ -1,0 +1,4 @@
+A computer sends packets of information that travels through a network of routers to the destination
+An IP address is the address of one computer. A DNS associates domain names with associated IP addresses.
+A Cookie is an ID card for a specific website.
+3 main parts of a URL are the Protocol, the domain name, and the path to the specific web page.
