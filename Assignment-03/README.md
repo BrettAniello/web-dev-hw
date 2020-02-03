@@ -1,0 +1,3 @@
+Browsers function by utilizing a user interface to interact with webpages. The browser uses a rendering engine to display interpretation of .html and .css codes. The browser engine allows everything to talk to eachother. Javascript is translated through a javascript interpreter. data is stored to keep your place in the event that the page needs to be restored. The rendering engine is used to render videos, audio, etc.
+A markup language dictates the architecture of page, with a focus on its text content. HTML is a commonly used markup language used in development, and serves as the foundation and structure of the pages content. Once it is set, other aspects can be imbedded or attached to the page.
+![screenshot](./images/screenshot.png)
