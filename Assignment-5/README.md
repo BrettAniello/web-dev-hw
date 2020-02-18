@@ -1,0 +1,3 @@
+There can be unlimited main document elements. these elements are used to build a website and all serve different roles depending on what you are trying to code.
+Structural markup is information about the structure of a document which guides the user visually and provides information about the type of content in a document. Semantic markup is used to reinforce the meaning of information within a document by placing an emphasis on words or phrases.
+For this assignment I opened atom, github desktop, and the asignment instructions/walkthrough. I created the assignment folder and followed the instructions on moodle, using the walkthrough to assist me when needed.
