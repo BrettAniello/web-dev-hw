@@ -1,3 +1,3 @@
 I have came across checkbox forms, button forms, and text forms. They all serve similar purposes, but are used in different applications, like surveys or inputing information in a document.
 text forms could be used when answering a subjective question in a survey, button and selection forms could be used when you are only looking for a response from a  select list of options.
-For this assignment I wathed the walkthough video and learned how to create forms and tables, then I filled everything in with the data that was required for the assignment. I also got help from w3schools when I had questions on how to create specific forms, and to customize the page.
+For this assignment I watched the walkthrough video and learned how to create forms and tables, then I filled everything in with the data that was required for the assignment. I also got help from w3schools when I had questions on how to create specific forms, and to customize the page.
