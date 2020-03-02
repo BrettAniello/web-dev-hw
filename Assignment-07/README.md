@@ -1,0 +1,3 @@
+Divs allow us to divide the page into groups of related elements. Ids let us identify what type of information is within the div. Class tags allow us to easily style the div. Spans allow extra styling within a div only to one particular area of the div without affecting anything else.
+Alt text describes a particular image embedded in the page. the alt text allows screen reader of visually impaired individuals the ability to accurately and specifically describe an image.
+For this project I watched the walkthrough, and then followed the instructions for the assignment referring back to the walkthrough video when needed.
