@@ -1,0 +1,3 @@
+I feel like there is so many ways to apply the things that I have learned and it is very exciting. Learning HTML was easier than I imagined, but seems like a very tedious process and probably much more complex the deeper you get into it.
+I am extremely excited to learn CSS because I felt that all of the web pages that we made learning HTML looked so boring and I found myself trying to learn new ways to spruce them up on my own, and everything pointed towards CSS.
+For this assignment I just read the assignment page, watched the walkthrough, and went to work. I did apply one thing that I found on w3schools to make the navigation bar look much better than 3 boring buttons, but its awesome to see the stuff we learned put together to make a multi-page website.
