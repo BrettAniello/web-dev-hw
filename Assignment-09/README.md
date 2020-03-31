@@ -1,0 +1,3 @@
+A universal selector styles everything on the page. An element selector styles all elements of a certain type, such as h1. A class selector styles all elements in a class, such as a div class that spans multiple divs you are trying to style. An ID selector styles all elements of a specific ID, generally specific to one div.
+I chose the colors of the 1960s because my mother is in love with those colors. The colors I used are Burnt sienna (91.4% red, 45.5% green and 31.8% blue) #e97451, Harvest Gold (85.5% red, 56.9% green and 0% blue) #da9100, and Teak (67.06% red, 53.73% green and 32.55% blue #ab8953.
+For this assignment I read the assignment page, found my colors, watched the walkthrough video, and referred to w3schools whenever I couldn't figure something out.
