@@ -1,0 +1,32 @@
+body{
+  background-color: #008080;
+}
+.square {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 50%;
+  border: 5px solid orange;
+  padding: 10px;
+  color: #ab8953;
+
+}
+/* This is much more confusing after being used to HTML */
+#gold{
+    background-color: #da9100;
+}
+
+
+#sienna {
+  background-color: #e97451;
+  ;
+}
+
+img {
+  opacity:80%
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
