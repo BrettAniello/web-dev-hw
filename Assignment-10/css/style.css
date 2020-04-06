@@ -1,0 +1,53 @@
+body {
+  background-color: #ffcccb;
+
+}
+
+.header {
+  margin: auto;
+  width: 50%;
+  border: 3px solid powderblue;
+  padding: 10px;
+  text-align: center;
+  color: green;
+  font-family: 'Comic Neue', cursive;
+}
+
+
+.text {
+  margin: auto;
+  width: 50%;
+  border: 3px solid powderblue;
+  padding: 10px;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  font-weight: bolder;
+}
+.more {
+  margin: auto;
+  width: 50%;
+  border: 3px solid powderblue;
+  padding: 10px;
+  text-align: center;
+  font-size: 24px;
+}
+
+p::first-letter {
+  font-family: 'Comic Neue', cursive;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+a:link, a:visited {
+  border: 3px solid powderblue;
+  color: green;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: powderblue;
+  color: white;
+}
