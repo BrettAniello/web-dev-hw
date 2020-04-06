@@ -1,0 +1,3 @@
+System fonts are fonts hosted from a local device/system. Web fonts are hosted on a server, but require certain elements to get called up correctly. Web-safe fonts are fonts that developers can rely on to be available on both Windows and Mac systems.
+font fallback and font stacks are important because the browser may not be able to load the primary font selected.
+For this assignment I read the assignment page, found the material I would be using for my website, and then watched the walkthrough video. after that I worked through the assignment referring to the video and previous work when needed.
