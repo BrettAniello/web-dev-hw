@@ -1,0 +1,99 @@
+.body {
+  color: #FFCBA4;
+  text-align: center;
+  padding: 0;
+  font-family: 'Montserrat';
+  font-size: 24px;
+  font-weight: lighter;
+  margin-left: 160px;
+  margin-top: 0
+  background-color: #e8f4f8;
+}
+
+p {
+  color:black;
+  margin: 20px;
+}
+
+h2 {
+  font-weight: lighter;
+}
+
+h3 {
+  font-weight: lighter;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical
+}
+
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+
+.container {
+  border-radius: 5px;
+  background-image: url('../images/brettstreks3.jpeg');
+  padding: 20px;
+  background-size: 100%;
+}
+
+form {
+opacity: .75;
+
+}
+
+
+
+#insta {
+  background: radial-gradient(circle at 5% 20%, #fdf497 10%, #fdf497 5%, #fd5949 20%, #d6249f 30%, #285AEB 10%);
+  -webkit-background-clip: text;
+
+          background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  font-size: 35px;
+
+}
+
+#insta:hover {
+  opacity: .7;
+}
+
+button {
+  background-color: white;
+  color: black;
+  border: 2px solid #FFCBA4;
+  background-color: white; /* Green */
+  border-radius: : 20%;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #FFCBA4; /* Green */
+  color: white;
+}
